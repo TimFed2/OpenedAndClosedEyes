@@ -9,3 +9,6 @@ After varying different models and parameters, I used pre-trained ResNet18 model
 
 For such specific data only RandomHorizontalFlip was used as an augmentation method. 
 Results: 0.9430 accuracy on validation data, 0.97 accuracy on train data
+
+## Eyes data
+https://drive.google.com/drive/folders/1686AImRuC1hZeuMsIFMJisVtr44ckjkh?usp=sharing
