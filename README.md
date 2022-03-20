@@ -1,5 +1,5 @@
 # OpenedAndClosedEyes
-Given a set of 4,000 greyscale low-resolution pictures of open and closed eyes. The goal is to build a classification model
+Given a set of 3,000 greyscale low-resolution pictures of open and closed eyes. The goal is to build a classification model
 
 ## Model architecture
 After varying different models and parameters, I used pre-trained ResNet18 model with the following parameters: 
